@@ -17,19 +17,20 @@ This is a simple web application built with Flask that allows users to upload im
 
 ## Installation
 
-1. Clone this repository
-``bash
+1. Clone this repository:
+
+``
 git clone https://github.com/AbhinnV04/image-alchemy-image-editor.git
 ``
 
 2. Install the required dependencies:
 
-``bash
+``
 pip install -r requirements.txt
 ``
 
 3. Run the Flask App:
-``bash
+``
 python main.py
 ``
 
